@@ -1,0 +1,6 @@
+{
+  "name": "Prism Arena",
+  "description": "Massive multiplayer first-person 3D laser tag arena powered by Three.js and real-time WebSockets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
